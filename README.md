@@ -5,7 +5,7 @@ I am a GIS and Remote Sensing student passionate about spatial analysis,
 geospatial technology, and environmental applications.
 
 ## 🛠️ Skills
-- QGIS
+- Digitization
 - ArcGIS
 - Remote Sensing
 - Basic Python
@@ -15,11 +15,11 @@ geospatial technology, and environmental applications.
 
 ### 1. Land Use / Land Cover Mapping
 - Description: LULC classification using satellite imagery.
-- Tools: QGIS, Sentinel-2
+- Tools: ArcGIS, Sentinel-2
 
 ### 2. Flood Risk Mapping
 - Description: Flood-prone area analysis using DEM and hydrology tools.
-- Tools: QGIS
+- Tools: ArcGIS
 
 *(More projects will be added soon)*
 
